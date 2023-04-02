@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/internshala/static/css/main.e9b078c9.css",
+    "main.js": "/internshala/static/js/main.e5f520aa.js",
+    "static/js/787.2e461eb7.chunk.js": "/internshala/static/js/787.2e461eb7.chunk.js",
+    "index.html": "/internshala/index.html",
+    "main.e9b078c9.css.map": "/internshala/static/css/main.e9b078c9.css.map",
+    "main.e5f520aa.js.map": "/internshala/static/js/main.e5f520aa.js.map",
+    "787.2e461eb7.chunk.js.map": "/internshala/static/js/787.2e461eb7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9b078c9.css",
+    "static/js/main.e5f520aa.js"
+  ]
+}
